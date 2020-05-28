@@ -100,6 +100,7 @@ _CABAL_TOOLS = ["alex", "c2hs", "cpphs", "doctest", "happy"]
 # TODO: replace this with a more general solution.
 _EMPTY_PACKAGES_BLACKLIST = [
     "bytestring-builder",
+    "doctest-discover",
     "fail",
     "mtl-compat",
     "nats",
